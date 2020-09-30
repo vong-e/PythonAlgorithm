@@ -30,4 +30,5 @@ def mixFood(food1, food2): #턴두 음식을 섞어서 나오는 스코빌 지�
 
 input_scoville = [1, 2, 3, 9, 10, 12]
 input_K = 7
+
 print("테스트 케이스: ", solution(scoville=input_scoville, K=input_K))
