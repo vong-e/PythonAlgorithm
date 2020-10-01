@@ -17,6 +17,5 @@ def solution(prices):
     print("이떄 앤써", answer)
     return answer
 
-
 p = [1, 2, 3, 2, 3]
 print("테스트 케이스: ", solution(prices=p))
