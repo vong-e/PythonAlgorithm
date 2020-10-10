@@ -14,7 +14,6 @@ def solution(prices):
                 break     
         print("====")
 
-
     print("이떄 앤써", answer)
     return answer
 
