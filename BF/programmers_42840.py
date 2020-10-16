@@ -9,5 +9,4 @@ def solution(answers):
     for answer in answers:
 
 
-
 solution([1,2,3,4,5])
