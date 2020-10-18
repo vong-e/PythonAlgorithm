@@ -8,5 +8,4 @@ def solution(answers):
 #dlrjv이거풀어야함
     for answer in answers:
 
-
 solution([1,2,3,4,5])
